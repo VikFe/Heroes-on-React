@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-content:flex-start;
+  gap: 15px;
+  text-align: start;
+  
+}
+
+.card {
+  width: 550px;
+  border: 1px solid black;
+  padding-left: 10px;
+  
+}
+
